@@ -9,4 +9,4 @@ The model looks at past 60 days of data and then gives the prediction accordingl
 For in depth tutorial, please refer to https://www.youtube.com/watch?v=QIUxPv5PJOY&t=1533s. He has more contents on ML.
 
 # Contact with me
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/sanu-maharjan-557237211/})
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
