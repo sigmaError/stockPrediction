@@ -17,7 +17,7 @@ For in depth tutorial, please refer to https://www.youtube.com/watch?v=QIUxPv5PJ
 
 
 ## Languages and Tools
-[![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]
 &nbsp;
