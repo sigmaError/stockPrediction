@@ -1,4 +1,4 @@
-# Hello to everyone, Sanu here aka sigmaError
+# Hello to everyone,
 
 ## Here I have a small python script for stock trediction.
 
